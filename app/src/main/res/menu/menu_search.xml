@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SearchActivity">
+
+    <item
+        android:id="@+id/miSearch"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/search_label" />
+
+    <item
+        android:id="@+id/miSearchSettings"
+        android:icon="@drawable/ic_gear"
+        app:showAsAction="ifRoom"
+        android:title="@string/search_settings_label" />
+
+</menu>
