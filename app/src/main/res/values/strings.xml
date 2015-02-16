@@ -4,5 +4,53 @@
     <string name="app_name">Pictures</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_label">Search</string>
+    <string name="image_title_label">Image Title</string>
+    <string name="image_result_label">Image Result</string>
+    <string name="title_activity_image_detail">ImageDetailActivity</string>
+
+    <string name="search_settings_label">Search settings</string>
+    <string name="option_array_sizes_prompt">Size</string>
+    <string-array name="option_array_sizes">
+        <item>any</item>
+        <item>icon</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+        <item>xxlarge</item>
+    </string-array>
+    <string name="option_array_color_prompt">Color</string>
+    <string-array name="option_array_colors">
+        <item>any</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    <string name="option_array_type_prompt">Type</string>
+    <string-array name="option_array_types">
+        <item>any</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+    <string name="option_array_site_prompt">Site</string>
+    <string name="option_array_site_hint">espn.com</string>
+
+
+    <string name="title_activity_search_options">Advanced search options</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="save_label">Save</string>
 
 </resources>
